@@ -1,0 +1,21 @@
+/*---------------------------------------------------------------
+# Template Name: Clear Grey
+# Template Version: 1.0.0
+# ---------------------------------------------------------------
+# Author: Appcell @ Skydrifter http://skydrifter.net
+# Copyright (C) 2013 - 2014 SkyDrifter.net. All Rights Reserved.
+# license - PHP files are licensed under  GNU/GPL V2
+# license - CSS & JS & IMAGE files are copyrighted material 
+# Websites: http://skydrifter.net
+-----------------------------------------------------------------*/
+/*body, html
+{
+	background: #ddd;
+}*/
+
+#right-top-bar
+{
+	float: right;
+	top: 0;
+	margin: 0;
+}

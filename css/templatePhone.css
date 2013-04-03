@@ -1,0 +1,13 @@
+@media (max-width: 767px)
+{
+	ul.menu
+	{
+		padding-top: 2em;
+		padding-bottom: 0;
+		position: relative;
+	}
+	.wrapper
+	{
+		margin-bottom: 0.5em;
+	]
+}

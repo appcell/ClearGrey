@@ -1,0 +1,24 @@
+一个joomla主题，原本是做给学校的。
+
+模板适用于：
+教育机构、研究机构主页。
+
+风格特性：
+简洁、雅致，仿metro风格。
+
+功能特性：
+支持多语言站点，页面自适应。在从IE6起的各版本IE上均兼容。
+
+适用系统：
+Joomla! V2.5
+
+所需插件：
+K2
+LofK2SlideShow
+X-map
+
+未打包，这是全部源码。
+左上角的banner图像请放在joomla根目录/images/banner下。
+logo图像请放在joomla根目录/images/logo下。
+
+有问题请联系appcell@outlook.com。

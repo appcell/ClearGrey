@@ -1,0 +1,114 @@
+
+a:link
+{
+	text-decoration: none;
+	color: #1e8098;
+}
+
+
+#right-top-bar
+{
+	color: #8e8e8e;
+	font-size: 1.17em;
+}
+
+
+#left-wrapper a
+{
+	text-decoration: none;
+}
+/*	color: #eaeaea;
+	background: #3c3d3e;
+	background: #535455;*/
+/*#main-nav ul.menu a
+{
+	padding-left: 11%;
+}
+#main-nav ul.menu [class~=active] a
+{
+	padding-left: 18%;
+	color: #eaeaea;
+}
+#main-nav ul.menu [class~=current] a, #main-nav ul.menu [class~=current] a
+{
+	padding-left: 7%;
+	color: #eaeaea;
+}
+
+#main-nav ul.menu a:hover, #main-nav ul.menu [class~=active],#main-nav ul.menu [class~=current]
+{
+	background: #3c3d3e;
+}
+#main-nav ul.menu [class~=active] ul li.current, #main-nav ul.menu ul a:hover
+{
+	background: #535455;
+}
+#main-nav ul.menu [class~=active] ul a, #main-nav ul.menu [class~=current] ul a
+{
+	padding-left: 25%;
+}*/
+/*#main-nav ul.menu [class~=active] ul li.current a
+{
+	padding-left: 7%;
+	color: #fff;
+}*/
+/*#main-nav ul.menu .parent.current a:first-child 
+{
+	width: 89%;
+	margin-left: 11%;
+	background: #1e8098;
+}
+#main-nav ul.menu .parent.current ul a
+{
+	width: 100%;
+	margin-left: 0%;
+	background: #3c3d3e;
+}
+#main-nav ul.menu li:first
+{
+	width: 89%;
+	margin-left: 11%;
+	background: #1e8098;
+}
+#main-nav ul.menu .current:first-child a
+{
+	width: 89%;
+	margin-left: 11%;
+	background: #1e8098;
+}
+#main-nav ul.menu li ul .current:first-child a
+{
+	width: 75%;
+	margin-left: 25%;
+	background: #1e8098;
+}
+
+
+#main-nav ul.menu a
+{
+	padding-left: 11%;
+}
+#main-nav ul [class~=active] a, #main-nav ul [class~=current] a
+{
+	padding-left: 18%;
+	color: #eaeaea;
+}
+#main-nav ul [class~=active] ul a, #main-nav ul [class~=current] ul a
+{
+	padding-left: 25%;
+}
+#main-nav ul .current a
+{
+	padding-left: 0%;
+	color: #fff;
+}
+#main-nav ul [class~=active] ul li.current a
+{
+	padding-left: 7%;
+	color: #fff;
+}*/
+
+
+
+
+
